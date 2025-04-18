@@ -1,12 +1,11 @@
 # SPSS_in_C
 Designed for statistical analysis, like SPSS, using C language
 
+## Function within code:
 
 void Opening_Interface();		// Opening Statements
 
-
 int Interface_Input_Main();		// main menu
-
 
 int Interface_Input_Transformation();	// Transformation
 
@@ -34,7 +33,6 @@ float ICDF_Poisson_Distribution();	// -Poisson
 float ICDF_Normal_Distribution();	// -Normal
 float ICDF_Std_Norm_Distribution();	// -Standard Normal
 
-
 int Interface_Input_Analysis();		// Analysis
 
 float H1_Confidence_Interval();
@@ -58,9 +56,7 @@ float H2_PS_P_Val_Based();			// P-value Based
 
 float H2_Two_Sample_Variances();
 
-
 int Interface_Input_ANOVA1();	// 1 Way ANOVA Test
 int Interface_Input_ANOVA2();	// 2 Way ANOVA Test
-
 
 int Interface_Input_Others();		// Other
