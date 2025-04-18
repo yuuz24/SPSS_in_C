@@ -1,6 +1,6 @@
 # SPSS_in_C
 Designed for statistical analysis, like SPSS, using C language
-** !! Incomplete in 2-way ANOVA **
+#### !! Incomplete in 2-way ANOVA !!
 
 ## Functions within code:
 
